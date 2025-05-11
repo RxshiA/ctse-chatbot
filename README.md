@@ -41,7 +41,6 @@ ctse-chatbot/
 └── .gitignore             # Git ignore file
 ```
 
-
 ## Prerequisites
 - Python 3.9 or later
 - OpenAI API key
