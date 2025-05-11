@@ -59,17 +59,20 @@ ctse-chatbot/
 
 3. Install dependencies:
 
-`pip install -r requirements.txt`
+    ```bash
+    pip install -r requirements.txt
 
 4. Add your OpenAI API key to a .env file:
 
-`OPENAI_API_KEY=your_openai_api_key`
+    ```bash
+    OPENAI_API_KEY=your_openai_api_key
 
 5. Place your lecture notes (PDF files) in the data/ folder.
 
 6. Run the Jupyter Notebook:
 
-`jupyter notebook`
+    ```bash
+    jupyter notebook
 
 Open chatbot-ctse.ipynb and run all cells.
 
