@@ -29,11 +29,12 @@ This project is a chatbot built using LangChain and OpenAI's GPT-4 model. The ch
 - Provides accurate answers to questions about the lecture notes.
 
 ## Folder Structure
+
 ctse-chatbot/ 
 ├── data/ # Folder for storing lecture notes in PDF format 
 ├── notebooks/ # Jupyter Notebook for the chatbot 
 │ 
-└── chatbot-ctse.ipynb 
+|   └── chatbot-ctse.ipynb 
 ├── requirements.txt # List of dependencies 
 ├── .env # Environment variables (e.g., OpenAI API key) 
 ├── README.md # Project documentation 
